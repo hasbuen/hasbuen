@@ -8,7 +8,7 @@
 💻 Experiência com **relacionamento com cliente à distância** e **interação em equipe**.  
 🚀 Já atuei como **implementador de soluções empresariais** na Linx S.A.  
 🛠️ +5 anos de experiência em **HelpDesk**.  
-✏️ **29 anos**.
+✏️ **31 anos**.
 
 ---
 
