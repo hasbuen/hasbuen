@@ -38,16 +38,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
-> Esse bloco foi mantido para mostrar commits, contribuições, linguagens e atividade do perfil via GitHub Actions.
-
----
-
 ## 📌 Projetos em Destaque
 
 ### Backend
