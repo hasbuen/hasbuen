@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=Prazer%2C+sou+Julio+Cesar+Bueno.;Conhecido+tamb%C3%A9m+como+Hasbuen.;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o.;Sempre+aberto+a+novos+desafios+e+colabora%C3%A7%C3%B5es!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=Prazer%2C+sou+Julio+Cesar+Bueno.;Conhecido+tamb%C3%A9m+como+Hasbuen.;Apaixonado+por+tecnologia+e+inovação.;Sempre+aberto+a+novos+desafios+e+colaborações!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,6 +39,14 @@
 ---
 
 ## 📌 Projetos em Destaque
+
+### Projeto Principal
+
+<p align="center">
+  <a href="https://github.com/hasbuen/MusFy">
+    <img src="./assets/musfy.svg" alt="MusFy" width="100%" />
+  </a>
+</p>
 
 ### Backend
 
