@@ -164,8 +164,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasbuen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFC6&icon_color=00FFC6&text_color=94A3B8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbuen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFC6&text_color=94A3B8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-murex-eta.vercel.app/api?username=hasbuen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFC6&icon_color=00FFC6&text_color=94A3B8" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-murex-eta.vercel.app/api/top-langs/?username=hasbuen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFC6&text_color=94A3B8" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
